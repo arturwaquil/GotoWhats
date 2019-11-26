@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GotoWhats</string>
+    <string name="insert_number">Insert a phone number:</string>
+    <string name="number_hint">+1 (555) 555-1234</string>
+    <string name="gotowhatsapp_text">CHAT ON WHATSAPP</string>
+    <string name="credits">Made by Artur Waquil Campana</string>
+</resources>

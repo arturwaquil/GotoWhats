@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GotoWhats</string>
+    <string name="insert_number">Insira um número de telefone:</string>
+    <string name="number_hint">+55 (11) 99999-9999</string>
+    <string name="gotowhatsapp_text">CONVERSAR NO WHATSAPP</string>
+    <string name="credits">Feito por Artur Waquil Campana</string>
+</resources>
